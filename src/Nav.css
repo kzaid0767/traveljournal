@@ -1,0 +1,23 @@
+nav{
+    background: #F55A5A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 3.4375rem;
+}
+.fa-globe{
+    font-size: 2rem;
+    line-height: 18px;
+    font-weight: 500;
+    letter-spacing: -0.075em;
+    color: #FFFFFF;
+}
+
+span{
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.125rem;
+    letter-spacing: -0.075em;
+    color: #FFFFFF;
+    margin-left: 0.5rem;
+}

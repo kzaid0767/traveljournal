@@ -1,0 +1,64 @@
+.card{
+    display: flex;
+    gap: 1.1875rem;
+    padding: 2.5rem;
+    width: 34.375rem;
+    max-width: 800px;
+    margin: 0 auto;
+    border-bottom: 1px solid #F5F5F5;
+}
+
+.location-image{
+    width: 7.8125rem;
+    height: 10.5rem;
+    border-radius: 5px;
+}
+
+
+.location-name{
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 0.75rem;
+    letter-spacing: 0.17em;
+    margin: 0 0.75rem;
+    color: #2B283A;
+}
+
+.google-info{
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 0.75;
+    /* identical to box height */
+    color: #918E9B;
+}
+
+.location-title{
+    margin: 0;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 1.25;
+    color: #2B283A;
+}
+
+.dates{
+    font-weight: 700;
+    font-size: 0.8rem;
+    line-height: 0.75;
+    color: #2B283A;
+}
+
+.description{
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 150%;
+    color: #2B283A;
+}
+
+.map-info{
+    display: flex;
+    align-items: center;
+}
+
+.fa-map-marker{
+    color: #F55A5A
+}
